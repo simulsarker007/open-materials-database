@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Space Mushroom: Open Materials Database"
+abstract: "A free open materials database where every property value is shown with its unit, test conditions and source."
+type: dataset
+authors:
+  - family-names: Sarker
+    given-names: Simul
+year: 2026
+url: "https://spacemushroom.com/"
+repository-code: "https://github.com/simulsarker007/open-materials-database"
+doi: 10.5281/zenodo.23718226
+license: CC-BY-4.0
+keywords:
+  - materials science
+  - materials database
+  - engineering materials
+  - open data
